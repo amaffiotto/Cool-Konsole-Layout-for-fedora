@@ -6,7 +6,7 @@
             "Command": "clear; fastfetch --logo-color-1 white --logo-color-2 black --color-keys white --color-title white",
             "Lines": 54,
             "SessionRestoreId": 0,
-            "WorkingDirectory": "/home/tmandrile"
+            "WorkingDirectory": "~"
         },
         {
             "Orientation": "Vertical",
@@ -16,14 +16,14 @@
                     "Command": "/usr/local/bin/fire_effect",
                     "Lines": 26,
                     "SessionRestoreId": 0,
-                    "WorkingDirectory": "/home/tmandrile"
+                    "WorkingDirectory": "~"
                 },
                 {
                     "Columns": 116,
                     "Command": "btop",
                     "Lines": 26,
                     "SessionRestoreId": 0,
-                    "WorkingDirectory": "/home/tmandrile"
+                    "WorkingDirectory": "~"
                 }
             ]
         }

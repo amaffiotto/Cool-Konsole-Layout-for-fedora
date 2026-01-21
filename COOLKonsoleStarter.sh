@@ -1,3 +1,4 @@
 #!/bin/bash
 
-konsole --fullscreen --layout "./Layout.json"
+cd "$(dirname "$0")"
+konsole --fullscreen --layout "Layout.json"
